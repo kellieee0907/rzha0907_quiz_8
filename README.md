@@ -2,10 +2,11 @@
 
 ## Part 1: Imaging Technique Inspiration
 
+In the *Interstellar* movie, the Tesseract scene stands out for its complex interplay of slit-scan photography technique. It represents a vast, seemingly infinite library that extends space and time across multiple dimensions. Inspired by this, our project can explores slit-scan photography to create multidimensional and abstract artwork.
+
 ![Interstellar Tesseract](readmeImages/interstellar1.webp)
 ![Interstellar Tesseract](readmeImages/interstellar2.jpeg)
 
-In the *Interstellar* movie, the Tesseract scene stands out for its complex interplay of slit-scan photography technique. It represents a vast, seemingly infinite library that extends space and time across multiple dimensions. Inspired by this, our project can explores slit-scan photography to create multidimensional and abstract artwork.
 
 > With slit-scan, you allow the image to move past a slit-shaped shutter held open for longer-than-normal exposures -- Paul Franklin
 
@@ -26,4 +27,8 @@ To replicate the sophisticated visual effects seen in the Tesseract scene, we wi
 
 - **Fragment Shaders**: Adjust pixel colors based on the viewer’s perspective and desired effects, such as lighting and refraction, to enhance the four-dimensional appearance.
 
-### GLSL Example
+#### GLSL Example
+![A screenshot about the GLSL](readmeImages/screenshot.png)
+
+
+[a link to some example code](https://www.shadertoy.com/view/XfcGR2)
